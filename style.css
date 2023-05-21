@@ -1,0 +1,28 @@
+.w3-teal{
+    background-color: #0aabfb!important;
+}
+.w3-text-teal{
+    color: #0aabfb!important;
+}
+#image{
+    border-width: 3px;
+    border-style: solid;
+    border-color: #0aabfb!important;
+    border-radius: 25px;
+    box-shadow: #0aabfb 1px 1px 20px;
+
+}
+.imo,.w3-white{
+    border-radius: 25px;
+}
+#con{
+    margin-top: 66px;
+}
+.w3-black{
+    background-color:#0aabfb!important ;
+}
+body{
+    border-style: solid;
+    border-color: transparent #0aabfb transparent #0aabfb;
+    border-width: 2px;
+}
